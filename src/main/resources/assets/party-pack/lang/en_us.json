@@ -1,0 +1,9 @@
+{
+  "item.party-pack.partium": "Partium Shard",
+  "item.party-pack.ignited_partium": "Ignited Partium Shard",
+
+  "block.party-pack.partium_block": "Block of Partium",
+  "block.party-pack.mutated_amethyst_block": "Block of Mutated Amethyst",
+
+  "itemgroup.partypack": "The Party Pack"
+}

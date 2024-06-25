@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1,
+  "group": "partium",
+  "ingredient": {
+    "item": "party-pack:partium"
+  },
+  "result": "party-pack:ignited_partium"
+}

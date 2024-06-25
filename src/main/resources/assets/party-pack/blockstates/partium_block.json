@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "party-pack:block/partium_block"
+    }
+  }
+}

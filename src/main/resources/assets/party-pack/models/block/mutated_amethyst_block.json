@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "party-pack:block/mutated_amethyst_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "party-pack:partium_block"
+    }
+  ],
+  "result": {
+    "item": "party-pack:partium",
+    "count": 9
+  }
+}
